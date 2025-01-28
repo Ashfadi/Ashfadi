@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ashfadi
-- 👀 I’m interested in Data Science, Data Analyzing, Data Visualizing, Machine Learning, Artificial Intilligence, Web Scraping, and Optimization
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me "alishbahfahad120@gmail.com
+- 👋 Hi, I’m Alishbah Fahad (@Ashfadi)
+- 👀 I’m passionate about Data Science, Data Analysis, Data Visualization, Machine Learning, Artificial Intelligence, Web Scraping, and Optimization.
+- 🌱 I’m currently enhancing my skills in Python and working on real-world projects to apply my knowledge.
+- 📫 Feel free to reach out to me at alishbahfahad120@gmail.com
 
 <!---
 Ashfadi/Ashfadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
